@@ -1,4 +1,4 @@
-## Visita
+## Viisita
 
 **Visita** is Visitation solution built with Flask. never miss a visitation again, don't fail to plan for any visitation, accept or refuse any visitation with reasons, shared visitation availability with friends and families.
 
